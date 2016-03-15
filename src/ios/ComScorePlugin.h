@@ -9,5 +9,6 @@
 - (void) onExitForeground:(CDVInvokedUrlCommand*)command;
 - (void) autoUpdateForeground:(CDVInvokedUrlCommand*)command;
 - (void) autoUpdateBackground:(CDVInvokedUrlCommand*)command;
+- (void) start:(CDVInvokedUrlCommand*)command;
 
 @end

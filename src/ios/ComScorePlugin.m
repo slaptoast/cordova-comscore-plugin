@@ -55,4 +55,9 @@
     [CSComScore enableAutoUpdate:interval foregroundOnly:NO];
 }
 
+- (void) start:(CDVInvokedUrlCommand*)command 
+{
+    [CSComScore start];
+}
+
 @end
