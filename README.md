@@ -14,8 +14,9 @@ cordova plugin add https://github.com/lnavarro/cordova-comscore-plugin.git
 
 ```bash
 cordova plugin add https://github.com/Marfeel/cordova-comscore-plugin.git
+```
 
-#Installing from JAdwigo repository:
+#Installing from Jadwigo repository:
 
 ```bash
 cordova plugin add https://github.com/jadwigo/cordova-comscore-plugin.git
