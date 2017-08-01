@@ -1,0 +1,11 @@
+{
+  "name": "com.comscoreplugin",
+  "version": "1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/slaptoast/cordova-comscore-plugin"
+  },
+  "dependencies": {
+    "cordova": "*"
+  }
+}
